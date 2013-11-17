@@ -10,7 +10,7 @@
   </parent>
 
   <groupId>com.actionbarsherlock</groupId>
-  <artifactId>parent</artifactId>
+  <artifactId>actionbarsherlock-parent</artifactId>
   <packaging>pom</packaging>
   <version>4.4.0</version>
 
@@ -21,9 +21,6 @@
 
   <modules>
     <module>actionbarsherlock</module>
-    <module>actionbarsherlock-fest</module>
-    <module>actionbarsherlock-i18n</module>
-    <module>actionbarsherlock-samples</module>
   </modules>
 
   <scm>

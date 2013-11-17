@@ -5,12 +5,12 @@
 
   <parent>
     <groupId>com.actionbarsherlock</groupId>
-    <artifactId>parent</artifactId>
+    <artifactId>actionbarsherlock-parent</artifactId>
     <version>4.4.0</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>actionbarsherlock</artifactId>
+  <artifactId>actionbarsherlock-library</artifactId>
   <name>ActionBarSherlock</name>
   <packaging>apklib</packaging>
 
